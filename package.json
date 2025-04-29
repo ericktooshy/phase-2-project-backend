@@ -1,0 +1,23 @@
+{
+    "name": "fitfuel-backend",
+    "version": "1.0.0",
+    "scripts": {
+        "server": "json-server --watch db.json --port 3001"
+    },
+    "dependencies": {
+        "json-server": "^0.17.4"
+    },
+    "description": "",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ericktooshy/phase-2-project-backend.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ericktooshy/phase-2-project-backend/issues"
+    },
+    "homepage": "https://github.com/ericktooshy/phase-2-project-backend#readme"
+}
